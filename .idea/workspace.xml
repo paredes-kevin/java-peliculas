@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e47621b7-4bdf-4a83-a061-fc7a8b40754f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PeliculaBasicTiempoReal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/CalculadoraDeTiempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Title.java" afterDir="false" />
-    </list>
+    <list default="true" id="e47621b7-4bdf-4a83-a061-fc7a8b40754f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -101,7 +89,7 @@
       <workItem from="1714952024092" duration="7053000" />
       <workItem from="1715295659124" duration="78000" />
       <workItem from="1716680043369" duration="29000" />
-      <workItem from="1716853240581" duration="1024000" />
+      <workItem from="1716853240581" duration="1324000" />
     </task>
     <servers />
   </component>
